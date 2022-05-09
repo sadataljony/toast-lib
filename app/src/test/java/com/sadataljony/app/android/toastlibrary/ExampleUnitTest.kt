@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.inappupdates
+package com.sadataljony.app.android.toastlibrary
 
 import org.junit.Test
 
