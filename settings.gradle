@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "InAppUpdates"
+rootProject.name = "ToastLibrary"
 include ':app'
 include ':ToasterLibrary'
