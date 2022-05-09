@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.toasterlibrary
+package com.sadataljony.app.android.toastlibrary
 
 import android.content.Context
 import android.widget.Toast

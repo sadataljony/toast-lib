@@ -1,4 +1,4 @@
-package com.sadataljony.app.android.toasterlibrary
+package com.sadataljony.app.android.toastlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
